@@ -82,11 +82,8 @@ float *b_modified = character(
   "######.");
 
 Matrix result = predict(&letters, b_modified, 1, 49);
-printf("Results: ");
 print_elements(result); // { 0.37 }
 ```
-
-
 
 
 
