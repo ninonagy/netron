@@ -9,6 +9,7 @@ To use the library include 'netron.h' in the main file
 ```C
 #include "netron.c"
 ```
+Here is a short demonstration of library's functionalities.
 
 ```C
 float learning_rate = 0.2f;
