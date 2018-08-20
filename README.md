@@ -59,6 +59,7 @@ float *abc[3] = { a, b, c };
 // Put all values in single array.
 float *input = format(abc, 3, 49);
 // Map letter to a number.
+// a -> 0.1, b -> 0.3, c -> 0.5
 float output[3] = { map('a'), map('b'), map('c') };
 
 /*
