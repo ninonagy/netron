@@ -7,7 +7,7 @@ A simple neural network library in C.
 To use the library include 'netron.h' in the main file.
 
 ```C
-#include "netron.c"
+#include "netron.h"
 ```
 Here is a short demonstration of library's functionalities.
 
