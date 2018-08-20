@@ -4,7 +4,7 @@ A simple neural network library in C.
 
 # Usage
 
-To use the library include 'netron.h' in the main file
+To use the library include 'netron.h' in the main file.
 
 ```C
 #include "netron.c"
