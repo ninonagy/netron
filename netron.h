@@ -678,7 +678,8 @@ extern "C"
     }
 
     // TODO: Add selection count param?
-    void update_generation(n_netron *genomes,
+    void update_generation(
+        n_netron *genomes,
         int genome_units,
         int selection_count,
         float mutation_rate)
@@ -715,7 +716,8 @@ extern "C"
         }
     }
 
-    void run_generation(n_netron *genomes,
+    void run_generation(
+        n_netron *genomes,
         int genome_units,
         int selection_count,
         float mutation_rate,
